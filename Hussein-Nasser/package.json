@@ -1,0 +1,19 @@
+{
+  "name": "hussein-nasser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "websocket": "^1.0.34"
+  }
+}
